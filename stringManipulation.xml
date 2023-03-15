@@ -1,10 +1,18 @@
 <application>
   <component name="StringManipulationState">
+    <option name="grepHistory">
+      <list>
+        <GrepSettings>
+          <option name="caseSensitive" value="true" />
+          <option name="pattern" value="{&quot;query&quot;:&quot;mutation PunchInRecord($punchedAt: String!, $wifiBSSID: String, $coordinate: CoordinateInput) {n punchInRecord(input: {punched_at: $punchedAt, wifi_bssid: $wifiBSSID, coordinate: $coordinate}) {n __typenamen punch_records {n __typenamen typingn staten punched_atn punched_typingn wifi {n __typenamen ssidn bssidn }n coordinate {n __typenamen latituden longituden addressn }n }n }n}&quot;,&quot;variables&quot;:{&quot;punchedAt&quot;:&quot;2023-03-15T23:04:52.728156600Z&quot;,&quot;wifiBSSID&quot;:null,&quot;coordinate&quot;:{&quot;address&quot;:&quot;TaiwanNew Taipei CityNo. 130 Changrong Road&quot;,&quot;longitude&quot;:121.46170581271321,&quot;latitude&quot;:25.084326721070674}}}" />
+        </GrepSettings>
+      </list>
+    </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.EscapeCSharpVerbatimAction" />
-        <option name="description" value="C# verbatim @&quot;...&quot;" />
-        <option name="textWithMnemonic" value="C# Verbatim @&quot;...&quot;" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveAllSpacesAction" />
+        <option name="description" value="Remove all spaces in selected text" />
+        <option name="textWithMnemonic" value="Remove All Spaces" />
       </UniversalActionModel>
     </option>
   </component>
