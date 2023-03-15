@@ -1,0 +1,11 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="lastActionModel">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.EscapeCSharpVerbatimAction" />
+        <option name="description" value="C# verbatim @&quot;...&quot;" />
+        <option name="textWithMnemonic" value="C# Verbatim @&quot;...&quot;" />
+      </UniversalActionModel>
+    </option>
+  </component>
+</application>
