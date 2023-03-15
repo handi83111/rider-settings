@@ -1,0 +1,33 @@
+<application>
+  <component name="aws">
+    <option name="promptedForTelemetry" value="true" />
+    <option name="useDefaultCredentialRegion" value="Always" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="C:\Program Files\Amazon\AWSSAMCLI\bin\sam.cmd" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1677775076000" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+  <component name="experiments">
+    <option name="value">
+      <map>
+        <entry key="jsonResourceModification" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="resources">
+    <option name="selected">
+      <list>
+        <option value="AWS::Lambda::Function" />
+        <option value="AWS::Lambda::EventSourceMapping" />
+      </list>
+    </option>
+  </component>
+</application>

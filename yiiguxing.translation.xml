@@ -1,0 +1,10 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1678786071154" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="MICROSOFT" />
+  </component>
+</application>

@@ -1,0 +1,72 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="Git.Settings">
+        <option name="UPDATE_TYPE" value="REBASE" />
+      </component>
+      <component name="JsBowerSettings">
+        <bower-package value="" />
+        <bower.json value="" />
+      </component>
+      <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="user" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Angular</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "typescript.add.unambiguous.imports.on.the.fly": "true"
+  }
+}]]></component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+      <component name="WindowStateProjectService">
+        <state x="552" y="183" key="Rider.ProjectTemplateDialog.Size" timestamp="1678906319185">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="552" y="183" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1032" timestamp="1678906319185" />
+        <state x="461" y="156" key="SettingsEditor" timestamp="1678907386776">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="461" y="156" key="SettingsEditor/0.0.1920.1032" timestamp="1678907386776" />
+      </component>
+      <component name="lambda">
+        <option name="showAllHandlerGutterIcons" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

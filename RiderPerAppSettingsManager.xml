@@ -1,0 +1,12 @@
+<application>
+  <component name="RiderPerAppSettingsManager">
+    <option name="enabledBlacklistToolWindowsId">
+      <set>
+        <option value="IL Viewer" />
+        <option value="dotTrace Profiler" />
+      </set>
+    </option>
+    <option name="perIdeMigrationStage" value="1" />
+    <option name="toolWindowsPerApp" value="true" />
+  </component>
+</application>
