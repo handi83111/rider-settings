@@ -10,9 +10,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveAllSpacesAction" />
-        <option name="description" value="Remove all spaces in selected text" />
-        <option name="textWithMnemonic" value="Remove All Spaces" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.border.CreateBorderAction" />
+        <option name="description" value="" />
+        <option name="textWithMnemonic" value="Create Border..." />
       </UniversalActionModel>
     </option>
   </component>
