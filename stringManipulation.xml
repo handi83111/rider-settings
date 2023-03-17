@@ -10,10 +10,11 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.border.CreateBorderAction" />
-        <option name="description" value="" />
-        <option name="textWithMnemonic" value="Create Border..." />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.UnescapeJsonAction" />
+        <option name="description" value="org.apache.commons.text.StringEscapeUtils#unescapeJson" />
+        <option name="textWithMnemonic" value="Unescape JSON" />
       </UniversalActionModel>
     </option>
+    <option name="lastSelectedAction" value="1" />
   </component>
 </application>
