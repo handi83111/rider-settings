@@ -9,6 +9,7 @@
         <configuration>
           <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="showCompilerGeneratedMembers" value="true" />
+          <option name="showRawNodeForDebuggerBrowsableValues" value="true" />
         </configuration>
       </debugger>
       <debugger id="ObjectiveC">
