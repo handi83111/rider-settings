@@ -7,8 +7,10 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="groupNonPublicMembers" value="true" />
           <option name="showCompilerGeneratedMembers" value="true" />
+          <option name="showFullyQualifiedTypeNames" value="true" />
+          <option name="showHexIntegerValues" value="true" />
           <option name="showRawNodeForDebuggerBrowsableValues" value="true" />
         </configuration>
       </debugger>
