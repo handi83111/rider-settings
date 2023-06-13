@@ -6,6 +6,13 @@
   <component name="codewhispererAutotriggerStates">
     <option name="classifierGroup" value="true" />
   </component>
+  <component name="codewhispererStates">
+    <option name="value">
+      <map>
+        <entry key="IsAutoEnabled" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="executables">
     <option name="value">
       <list>
