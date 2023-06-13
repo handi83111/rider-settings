@@ -3,6 +3,6 @@
     <option name="organization" value="org-Ip5aPfPUA39uLi4oNI2gm1RH" />
     <option name="displayName" value="tanner chiang" />
     <option name="useOpenAIAccountName" value="false" />
-    <option name="chatCompletionBaseModel" value="gpt-4" />
+    <option name="chatCompletionBaseModel" value="gpt-4-32k" />
   </component>
 </application>
