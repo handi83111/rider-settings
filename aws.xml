@@ -3,6 +3,9 @@
     <option name="promptedForTelemetry" value="true" />
     <option name="useDefaultCredentialRegion" value="Always" />
   </component>
+  <component name="codewhispererAutotriggerStates">
+    <option name="classifierGroup" value="true" />
+  </component>
   <component name="executables">
     <option name="value">
       <list>
