@@ -2,5 +2,6 @@
   <component name="ee.carlrobert.codegpt.state.settings.advanced.AdvancedSettingsState">
     <option name="proxyUsername" value="" />
     <option name="proxyPassword" value="" />
+    <option name="useOffScreenRendering" value="true" />
   </component>
 </application>

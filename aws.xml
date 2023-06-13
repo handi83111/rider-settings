@@ -1,0 +1,45 @@
+<application>
+  <component name="authManager">
+    <option name="ssoProfiles">
+      <list>
+        <ManagedSsoProfile>
+          <option name="scopes">
+            <list>
+              <option value="codewhisperer:completions" />
+              <option value="codewhisperer:analysis" />
+            </list>
+          </option>
+          <option name="ssoRegion" value="us-east-1" />
+          <option name="startUrl" value="https://view.awsapps.com/start" />
+        </ManagedSsoProfile>
+      </list>
+    </option>
+  </component>
+  <component name="aws">
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="codewhispererAutotriggerStates">
+    <option name="classifierGroup" value="false" />
+  </component>
+  <component name="codewhispererSettings">
+    <option name="value">
+      <map>
+        <entry key="IsIncludeCodeWithReference" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="connectionPinningManager">
+    <option name="pinnedConnections">
+      <map>
+        <entry key="aws.codewhisperer" value="sso;us-east-1;https://view.awsapps.com/start" />
+      </map>
+    </option>
+  </component>
+  <component name="experiments">
+    <option name="value">
+      <map>
+        <entry key="jsonResourceModification" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
