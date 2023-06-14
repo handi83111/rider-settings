@@ -14,6 +14,7 @@
       <map>
         <entry key="Memory" value="true" />
         <entry key="RiderMemory" value="true" />
+        <entry key="ai.codegeex.plugin" value="false" />
         <entry key="git" value="true" />
       </map>
     </option>
